@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Yipit Scraper Task</h1>
+      <h1>JavaScript Web Scraper</h1>
       <form onSubmit={handleSubmit}>
         <label>
           URL:
